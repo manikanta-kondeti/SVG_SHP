@@ -1,0 +1,10 @@
+General Public License: GPL 
+
+It is a means of implementing a concept called Copyleft.  Copyleft attempts to negate copyright for the purposes of collaborative software development. When an author releases a piece of code under the GPL license, she is granting the recipients of the source code the following rights: 
+	**anyone can use the code anywhere, in any situation.
+	**anyone can redistribute the source code, as long as the source code is included and distributed licenses remains the GPL.
+	**anyone can create a derivative work of the code and redistribute it, as long as the resulting source code is also made available at redistribution time, and as long as the resulting code is licensed under the terms of GPL.
+
+Thus, the GPL also allows authors to effectively use copyleft law to negate the powers of copyright and allow everyone and anyone  to participate in a collaborative development effort. As soon as two others combine their code under the GPL, the resulting source code exist only in the “GPL land”  where everyone and anyone can contribute to the project within the limits of GPL. 
+
+

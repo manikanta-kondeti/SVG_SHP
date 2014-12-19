@@ -25,7 +25,7 @@ HTML5 Graphic Technologies:
 	Almost any vector can be drawn by using either of these technologies, but someties there is sigificantly more work done by the developer or the computer depending upon the task.  
  
 
- ###SVG:-
+ ### SVG:-
 
  	Scalable Vector Graphic is used to describe a retained mode of graphics model that presist in an in-memory model that can be manipulated through code results in re-rendering. This is different from immediate mode, which is discussed later. Both are provided for in HTML5. 
 
@@ -35,7 +35,7 @@ HTML5 Graphic Technologies:
  			Programmability
  			Interactivity
 
- ###Canvas:- 
+ ### Canvas:- 
 
  	Another approach to provide richer graphical experience for users provided by the <canvas> tag, introduced in HTML5 by Apple for Safari, and other graphical widgets. It exposes a more programmatic experience for drawing immediate mode graphics including the rectangle, path and images, similar to SVG. Immediate mode graphic rendering is a "fire and forget" model that renders graphics directly to the screen and then subsequently has no context as to what was done. In contrast to retained mode, the rendered graphics are not saved; a developer nneds to re-invoke all drawing commands reuqired 	to descibe the entire scene each time a new frame is required, regardless of actual changes ( SVG is otherwise known to have a "scene graph") 
  		Features of Canvas:- 

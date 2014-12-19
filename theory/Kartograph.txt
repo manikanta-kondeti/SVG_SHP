@@ -1,0 +1,22 @@
+Canvas v/s SVG:
+
+
+"Kartograph.py":
+
+A powerful Python library for generating beautiful, Illustrator friendly SVG Maps.
+
+	* Renders Vectors maps from shapefiles and PostGIS
+	* Compact SVG's using Visvalingam simplication
+	* Stores metadeta in data attributes.
+	* Built on top of "GDAL/OGR" and "Shapely".
+	* License under AGPL
+
+"Kartograph.js"
+
+A javascript library for creating interactive maps based on Kartograph.js SVG maps.
+
+	* Easy to use: create an interactive map within minutes.
+	* Run 100% stand-alone. No server needed.
+	* Gracefully degrades to Internet Explorer 7+
+	* Built on top of Rapheal and jquery.
+	* Licenses under LGPL.

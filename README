@@ -20,3 +20,7 @@ A javascript library for creating interactive maps based on Kartograph.js SVG ma
 	* Gracefully degrades to Internet Explorer 7+
 	* Built on top of Rapheal and jquery.
 	* Licenses under LGPL.
+
+
+
+	Lets work on canvas and other things
